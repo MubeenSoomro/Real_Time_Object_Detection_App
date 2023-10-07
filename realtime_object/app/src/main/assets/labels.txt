@@ -1,0 +1,15 @@
+??
+cat
+dog
+mobile
+laptop
+bag
+hand
+watch
+clock
+charger
+book
+LCD
+shoes
+
+???
